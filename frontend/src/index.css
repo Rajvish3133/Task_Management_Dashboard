@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.input {
+  padding: 0.6rem;
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+  width: 100%;
+}
+
+.btn {
+  color: white;
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+  transition: 0.2s;
+}
+
+.btn:hover {
+  background-color: #1d4ed8;
+}
